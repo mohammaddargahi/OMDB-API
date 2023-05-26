@@ -29,6 +29,6 @@ Compare two movies scorse.
     
 ## Screenshots
 
-![Uploading Screenshot (4).png…]()
+![Screenshot (4)](https://github.com/mohammaddargahi/movieSearches/assets/46962448/b88828b0-942f-4d85-93fc-b6f2567e68ec)
 
 
