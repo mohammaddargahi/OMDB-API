@@ -29,5 +29,5 @@ Compare two movies scorse.
     
 ## Screenshots
 
-![App Screenshot](https://s8.uupload.ir/files/screenshot_(4)_ossj.png)
+https://s8.uupload.ir/files/screenshot_(4)_ossj.png
 
